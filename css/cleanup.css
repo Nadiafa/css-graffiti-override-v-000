@@ -11,7 +11,7 @@
   display: none;
 }
 
-.parent div#tag-4 {
+.parent:first-child #tag-4 {
   display: none;
 }
 
